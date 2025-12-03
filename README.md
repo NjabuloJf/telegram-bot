@@ -20,12 +20,12 @@
 - Telegram account
 - Telegram Bot Token
 - Telegram Bot User ID(uid)
-- **[`HERE IS`](https://github.com/mauricegift/telegram-bot/blob/main/gift/bot-token-and-uid.md) How to get your BOT TOKEN and BOT UID**
+- **[`HERE IS`](https://github.com/NjabuloJf/telegram-bot/blob/main/gift/bot-token-and-uid.md) How to get your BOT TOKEN and BOT UID**
 
-- **First [Fork Repo](https://github.com/mauricegift/telegram-bot/fork) to obtain your editable repo.**
+- **First [Fork Repo](https://github.com/NjabuloJf/telegram-bot/fork) to obtain your editable repo.**
 
 ### Configure the Bot:
-   - Ensure you **[Fork Repo](https://github.com/mauricegift/telegram-bot/fork)** first.
+   - Ensure you **[Fork Repo](https://github.com/NjabuloJf/telegram-bot/fork)** first.
 
    - There's a set.js.
    - Navigate to it and Add your bot token, bot user ID(id) and other settings:
@@ -38,7 +38,7 @@
 
 ### Deployment
 
-- **Deploy on [HEROKU](https://github.com/mauricegift/telegram-bot/blob/main/gift/heroku.md)**
+- **Deploy on [HEROKU](https://github.com/NjabuloJf/telegram-bot/blob/main/gift/heroku.md)**
 
 - **Deploy on [RENDER](https://dashboard.render.com/new)**
   
